@@ -1,0 +1,5 @@
+ls
+ls -lrth
+git status
+git clone
+git push
